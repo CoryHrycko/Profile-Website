@@ -10,19 +10,22 @@ ________________________________________________________________________________
 
 Stage 1: Vision;
 
-List of technologies used:
-
-React,
-Babel,
-JSX,
-Node.js,
-My.SQL,
-Css,
-Sass,
-HTML,
-Python,
+List of technologies used:<br>
 <br>
-General layout = Home navigation
+React,<br>
+Babel,<br>
+JSX,<br>
+Node.js,<br>
+My.SQL,<br>
+Css,<br>
+Sass,<br>
+HTML,<br>
+Python,<br>
+<br>
+General layout = <br>
+Home navigation,<br>
+on this page there is going to be links to populare social media and git links, as well as navi links that<br>
+will allow different navigation techniques. 
 
 
 
