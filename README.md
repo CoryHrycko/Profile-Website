@@ -1,18 +1,19 @@
 # Profile-Website
-
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-
-This is the Profile Website that is going to showcase must of my skills
-
-as a grand project set up as an Agile Project. 
+<br>
+This is the Profile Website that is going to showcase must of my skills<br>
+<br>
+as a grand project set up as an Agile Project. <br>
 ____________________________________________________________________________________________________________
-
-Stage 1: Vision;
-
+<br>
+Stage 1: Vision;<br>
+<br>
 List of technologies used:<br>
 <br>
 React,<br>
+C#,<br>
 Babel,<br>
 JSX,<br>
 Node.js,<br>
@@ -22,38 +23,54 @@ Sass,<br>
 HTML,<br>
 Python,<br>
 <br>
-General layout = <br>
-Home navigation,<br>
+General layout = Home navigation,<br>
 on this page there is going to be links to populare social media and git links, as well as navi links that<br>
-will allow different navigation techniques. 
-
-
-
+will allow different navigation techniques. <br>
+<br>
+page 2 will have a small bio and highligh some of the recent projects(would like this to auto update when I<br>
+update my git page)This shouldn't have a rough transition from the element to the site itself. The transition<br>
+should feel as if the 2 page is sliding over the first. 
+<br>
+<br>
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-
-Stage 2: Product Roadmap
-
+<br>
+Stage 2: Product Roadmap<br>
+<br>
+A.) Hash out the products features<br>
+B.) Implement Frameworks <br>
+C.) Implement Libraries <br>
+D.) Program modular Functions(Each new function is on its own branch) <br>
+	a.) Create namespaces <br>
+		1.) Create Custimizable Classes  <br>
+E.) 
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-Stage 3: Release Planning
-
+<br>
+Stage 3: Release Planning<br>
+A.)	<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-Stage 4: Sprint Planning
-
+<br>
+Stage 4: Sprint Planning<br>
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-Stage 5: Daily Scrum
-
+<br>
+Stage 5: Daily Scrum<br>
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-Stage 6: Sprint Review
-
+<br>
+Stage 6: Sprint Review<br>
+<br>
 ____________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________
-Stage 7: Sprint Retrospective
-
+<br>
+Stage 7: Sprint Retrospective<br>
+<br>
 
 
 
